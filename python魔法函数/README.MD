@@ -11,5 +11,4 @@ python模块中的__all__，用于模块导入时限制，如：from module impo
 ''' 举例
 class Student(object): 
   slots = ('name', 'age') # 用tuple定义允许绑定的属性名称 
-
 '''
