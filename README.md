@@ -1,1 +1,1 @@
-# python_magical_function
+# python_learning
